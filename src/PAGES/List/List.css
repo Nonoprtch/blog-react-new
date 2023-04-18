@@ -1,0 +1,16 @@
+.list-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  h1{
+    font-weight: bold;
+    font-size: 30px;
+  }
+  .list-item {
+    background-color: #ce77c735;
+    padding: 10px;
+    margin-bottom: 5px;
+    width: 100%;
+  }

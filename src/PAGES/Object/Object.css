@@ -1,0 +1,7 @@
+.object-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(45, 68, 180);;
+    padding: 20px;
+}
